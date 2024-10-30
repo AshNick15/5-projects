@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #8d90eb;
     margin: 0;
     padding: 20px;
 }
@@ -8,7 +8,7 @@ body {
 .container {
     max-width: 600px;
     margin: auto;
-    background: white;
+    background: rgb(253, 205, 173);
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -28,14 +28,14 @@ input[type="text"] {
 button {
     padding: 10px;
     border: none;
-    background-color: #5cb85c;
+    background-color: #a052ff;
     color: white;
     border-radius: 5px;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #4cae4c;
+    background-color: #641691;
 }
 
 ul {
@@ -53,7 +53,7 @@ li {
 
 li.completed {
     text-decoration: line-through;
-    color: #aaa;
+    color: #664343;
 }
 
 .remove {
